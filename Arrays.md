@@ -20,3 +20,16 @@ Arrays are stored in memory in a contiguous way
   - because have to reindex everything
 - remove middle or beginning is O(n)
   - have to reindex everything
+
+### Amortization
+
+- most cases its O(1)
+- worst case is O(n) but happens very infrequently
+
+### Stacks
+
+- LIFO(last in, first out)
+- Arrays are very efficient when used for stacks
+
+
+### Variable Sliding Window
