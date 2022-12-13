@@ -33,3 +33,7 @@ Arrays are stored in memory in a contiguous way
 
 
 ### Variable Sliding Window
+
+- it is a subset of the two pointer approach
+
+- for the two pointer approach, we only care about the values they are pointing to but nothing in between them
